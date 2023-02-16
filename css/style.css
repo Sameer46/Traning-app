@@ -1,0 +1,79 @@
+.navbar-default{
+    background-color: #5b0866;
+    border: solid wheat 3px;
+    color: white;
+}
+*{
+  color: white;
+  font-family: 'Alfa Slab One';
+  background-color: #5b0866;
+}
+
+.navbar-brand {       
+    padding-left: 0; 
+    color: white; 
+}
+.mr-top{
+margin-top:40px;
+}
+#generate{
+  border: solid wheat 4px;
+}
+#generate:hover{
+  background-color: green;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+  }
+
+.navbar-brand h1 {    
+    font-family: 'Alfa Slab One';
+    font-size: 1.5em;
+    color: white;   
+    margin-top: 0;
+    margin-left: 15px;
+    margin-bottom: 0;
+}
+#text>h3{
+  margin-top: 0;
+}
+
+.text-center{
+  font-family: 'Sofia';
+  font-size: 38px;
+  font-weight: bold;
+  position: relative;
+  margin-top: 70px;
+}
+
+#text {       
+    margin: 10px;
+    background-color: #5b0866;
+    font-family: 'Alfa Slab One';   
+    position: relative;
+    border: solid wheat 5px;
+}
+
+
+
+#nav-list {
+    margin-top: 10px;
+}
+
+#nav-list a {
+    text-align: center;
+    color: black;
+    font-family: 'Alfa Slab One';
+    font-weight: 100;
+    background-color: #AAA5A5;
+}
+
+#nav-list a:hover {
+    background-color: #c2c2ba;   
+}
+
+.navbar-default .navbar-collapse {
+	margin-top:0px;
+	border: 0px;
+	list-style-type: none;
+} 
