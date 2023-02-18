@@ -1,0 +1,659 @@
+{
+    "Cars":[
+        {
+         "Car": "AstonMartin Vantage GTE 2019",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "Audi R8LMS GT3 2018",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "Audi R8LMS GT3 2019",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "Bentley Continental GT3 2017",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "Bentley Continental GT3 2020",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "BMW M4 GT3 2020",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "BMW M6 GT3 2018",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "BMW M8 GTE 2018",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "Callaway Corvette GT3 2017",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "Corvette C7R GTE 2017",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "Corvette C8R GTE 2020",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "DallaraIR18 2020",
+         "Sim": "RF2",
+         "Type": "B"
+        },
+        {
+         "Car": "Ferrari 488 GT3 2020",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "Ferrari 488 GTE 2020",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "FormulaRenault 35 2014",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "Ligier JSP217 2020",
+         "Sim": "RF2",
+         "Type": "B"
+        },
+        {
+         "Car": "Ligier JSP320 2020",
+         "Sim": "RF2",
+         "Type": "B"
+        },
+        {
+         "Car": "McLaren 650S GT3 2017",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "McLaren 720S GT3 2018",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "McLaren Senna GTR 2019",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "Mercedes AMG GT3 2017",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "Norma M30-LMP3 2017",
+         "Sim": "RF2",
+         "Type": "B"
+        },
+        {
+         "Car": "Oreca 07 LMP2 2017",
+         "Sim": "RF2",
+         "Type": "B"
+        },
+        {
+         "Car": "Porsche 911 GT3 R 2018",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "Porsche 991RSR GTE 2017",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "Radical RXC GT3 2017",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "Radical SR3-RSX 2017",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "Tatuus F3 T318 2018",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "Tatuus F4 2018",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "Tatuus FT-50 2018",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "Tatuus FT-60 2018",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "Tatuus MSV F3-016 2018",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "Tatuus MSV F3-020 2020",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "Tatuus PM-18 2018",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "Tatuus USF-17 2018",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "USF2000 2016",
+         "Sim": "RF2",
+         "Type": "S"
+        },
+        {
+         "Car": "Vanwall LMH 2022",
+         "Sim": "RF2",
+         "Type": "B"
+        },
+        {
+         "Car": "Stock Car V8 2020",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Stock Car V8",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Stock Car Truck",
+         "Sim": "AMS2",
+         "Type": "B"
+        },
+        {
+         "Car": "Sprint Race",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Lancer Cup",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "F3 ",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Formula Vee",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Formula Vee Fin",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Ginetta G57",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "MCR 2000",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Metalmoro Chevy",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Metalmoro Honda",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Metalmoro Judd",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Metalmoro Powertec",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Metalmoro MRX",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Metalmoro MRX Honda",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Metalmoro MRX P3",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Metalmoro MRX Sharkfin",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Roco 001",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Sigma P1",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Mclaren F1 GTR",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Mercedes CLK LM",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Porsche 911 GT1",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Bmw M4 GT4",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Bmw M6 GT3",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Porsche 991 GT3",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Mclaren 570s GT4",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Mclaren 720s GT3",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Mercedes AMG GT3",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Porsche Caryman GT4",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Ginetta G55 GT4",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "V8 Supercar",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Mini Cooper",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Camaro GT4",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Ultima GTR",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "ARC Camaro",
+         "Sim": "AMS2",
+         "Type": "S"
+        },
+        {
+         "Car": "Formula V10",
+         "Sim": "AMS2",
+         "Type": "B"
+        },
+        {
+         "Car": "Formula Reiza",
+         "Sim": "AMS2",
+         "Type": "B"
+        },
+        {
+         "Car": "Formula Ultimate",
+         "Sim": "AMS2",
+         "Type": "B"
+        },
+        {
+         "Car": "Formula Ultimate Gen2",
+         "Sim": "AMS2",
+         "Type": "B"
+        },
+        {
+         "Car": "Abarth 500",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Audi TTRS",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Audi R8 LMS",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Audi R8 LMS Ultra",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Audi R18",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Bmw M235i",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Bmw M3 Gt2",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Bmw Z4 Gt3",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Corvette C7R",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Ferrari 458 Gt2",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Ferrari 488 Gt3",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Ferrari f138",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Ferrari SF15-t",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Ferrari FxxK",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "KTM Xbow",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Lamborghini Huracan Super Trofeo",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Lamborghini Huracan GT3",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Lotus Evora GX",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Lotus Evora GTC",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Lotus Exos",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Lotus 2 Eleven",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Lotus 3 Eleven",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Lotus Exige 240R",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Lotus Exige V6",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Maserati Granturismo Gt4",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Maserati MC12 Gt1",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Mazda Mx5",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Mclaren F1 GTR",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Mclaren Mp412c Gt3",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Mclaren 650 Gt3",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Mclaren P1 Gtr",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Mercedes SLS Gt3",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Mercedes AMG gt3",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Nissan Gtr Gt3",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Pagani Zonda R",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Porsche 911 Gt1",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Porsche 919 Hybrid",
+         "Sim": "AC",
+         "Type": "B"
+        },
+        {
+         "Car": "Porsche Cayman Gt4",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Porsche 911 Gt3r",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Porsche 911 Cup",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Porsche 911 Gt3 RSR",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Praga R1",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "SC P4\/5",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "SC SCG003",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Tatuus FA01",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Toyota TS040",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Saleen S7 GT1",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Lister Storm GT1",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Chrysler Viper GT1",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Lamborghini Murcielago GT1",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "Ferrari 575 GT1",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "F3 WC",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "F2",
+         "Sim": "AC",
+         "Type": "S"
+        },
+        {
+         "Car": "F4",
+         "Sim": "AC",
+         "Type": "S"
+        }
+       ]
+}
